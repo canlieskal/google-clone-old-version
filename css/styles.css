@@ -1,0 +1,58 @@
+.search-box {
+    background-color: #EEEEEE;
+    min-width: 250px;
+}
+
+.search-button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    min-width: 100px;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.container {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.search-links {
+    width: 37%;
+    float: left;
+    background-color: #7EE5DA;
+    padding: 10px;
+    min-width: 100px;
+    margin: 2px 2px 0px 0px;
+}
+
+.links {
+    background-color: #70CCC2;
+    width: 19%;
+    float: left;
+    min-width: 50px;
+    margin: 2px 2px 0px 0px;
+}
+
+.mail-subscribe {
+    background-color: #62B3AA;
+    float: left;
+    width: 44%;
+    min-width: 100px;
+    margin: 2px 0px 0px;
+}
+
+.links a {
+    font-size: small;
+}
+
+footer {
+    font-size: small;
+}
+
+.mail-subscribe {
+    font-size: small;
+}
